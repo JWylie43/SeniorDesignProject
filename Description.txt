@@ -1,0 +1,8 @@
+These are the python files that I mostly developed for my senior design project. 
+"SmartLeafControl.py" is designed to be run on a RaspberryPi3 with a couple
+relays, leds, LCD, and an Arduino sending serial data over the bus that contains
+sensor data. 
+
+"buttons.py" is designed to be run on the RPi3 and contains most of the same 
+script that is in the SmartLeafControl.py but it also implements buttons for the 
+user to control what the system does. 
